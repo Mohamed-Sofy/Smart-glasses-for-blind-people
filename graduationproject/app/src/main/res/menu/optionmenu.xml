@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/add_person" android:title="Add person" android:icon="@drawable/ic_person_add_black_24dp" ></item>
+
+    <item android:id="@+id/Settings" android:title="Settings" android:icon="@drawable/settings_24dp" ></item>
+
+    <item android:id="@+id/logout" android:title="Log out" android:icon="@drawable/exit_24dp" ></item>
+    <item android:id="@+id/About" android:title="About" android:icon="@drawable/about_24dp" ></item>
+</menu>
